@@ -1,0 +1,19 @@
+.Title-text {
+	margin: 0px;
+}
+
+.Title-container {
+}
+
+.Title-textContainer {
+	position: relative;
+	top: 74px;
+	background: rgba(0, 0, 0, 0.3);
+	z-index: 100;
+	color: white;
+}
+
+.Title-galleryContainer {
+	position: relative;
+	bottom: 74px;
+}

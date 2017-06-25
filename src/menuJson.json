@@ -1,0 +1,296 @@
+{
+	"subMenus": [{
+			"name": "SOUP & SALAD",
+			"extra": "AN ARRAY OF FRESHLY PREPARED SALAD ARE SERVED COMPLIMENTARY WITH ALL ENTREES.",
+			"items": [{
+					"title": "HOUSE SALAD",
+					"desc": "AN ARRAY OF FRESHLY PREPARED SALAD ARE SERVED,COMPLIMENTARY WITH ALL ENTREES.",
+					"price": "$9.90",
+					"extra": "THERE IS A SHARING FEE OF $3.90 FOR THOSE WHO CHOOSE TO SHARE ENTREES."
+				}, {
+					"title": "ISRAELI SALAD",
+					"price": "$8.90",
+					"desc": "",
+					"extra": ""
+				},
+				{
+					"title": "ROASTED VEGETABLES SALAD",
+					"desc": " MIXED GREENS, ICEBERG LETTUCE, ROASTED SWEET POTATO, ROASTED RED PEPPERS, ROASTED PORTABELLA, GREEN BEANS, ARTICHOKE HEARTS,CHERRY TOMATOES, SERVED WITH DATES BALSAMIC VINAIGRETTE.",
+					"price": "$15.90",
+					"extra": ""
+				},
+				{
+					"title": "THAI BEEF SALAD",
+					"desc": "MIXED GREENS, ICEBERG LETTUCE, ROASTED PORTABELLA, CORN, SPROUTS,CHERRY TOMATOES, CARROTS, GREEN ONION, MINT,CILANTRO, ROASTED,PEANUTS, ROASTED SESAME SEEDS, SERVED WITH GINGER SOY VINAIGRETTE.",
+					"price": "$16.90",
+					"extra": ""
+				},
+				{
+					"title": "GRILLED CHICKEN SALAD",
+					"desc": "MIXED GREENS, ICEBERG LETTUCE, CHERRY TOMATOES, CUCUMBER, RED ONION,GREEN BEANS, RADISH, AVOCADO, TORTILA CHIPS,SERVED WITH MUSTARD VINAIGRETTE.",
+					"price": "$16.90",
+					"extra": ""
+				},
+				{
+					"title": "VEGETABLE SOUP",
+					"price": "$5.90",
+					"desc": "",
+					"extra": ""
+				},
+				{
+					"title": "SOUP OF THE DAY",
+					"price": "$5.90",
+					"desc": "",
+					"extra": ""
+				}
+			]
+		},
+		{
+			"name": "FUSION APPETIZERS",
+			"items": [{
+					"title": "ISRAELI HUMMUS",
+					"price": "$8.90"
+				},
+				{
+					"title": "HUMMUS W/MUSHROOMS",
+					"price": "$9.90"
+				}, {
+					"title": "POTATO BLAST",
+					"desc": "CRISPY POTATO SKIN STUFFED WITH PULLED BBQ BEEF AND TOPPED WITH CREAMY ROASTED GARLIC MASH POTATOS.",
+					"price": "$14.90"
+				}, {
+					"title": "BEEF SLIDERS",
+					"desc": "THREE PETITE BURGERS SERVED WITH BBQ ONION RELISH AND SERVED WITH HOME MADE SPICY KETCHUP SAUCE.",
+					"price": "$15.90"
+				}, {
+					"title": "FALAFEL PLATE",
+					"price": "$9.90"
+				}, {
+					"title": "GRILL TIME CIGARS",
+					"desc": "CRISPY THIN SKINNED CIGARS, FILLED WITH DELICIOUS CHOPPED STEAK,SCALLION,&PINE NUTS,SERVED WITH A GREEN TEHINA SAUCE.",
+					"price": "$10.90"
+				}, {
+					"title": "BABY LAMB SPARE RIBS",
+					"desc": "MARINATED IN KOREAN SAUCE & GRILLED TO PERFECTION,THESE SUCCULENT RIBLETS WILL MAKE YOU BEG FOR THIRDS.",
+					"price": "$16.90"
+				}, {
+					"title": "GLAZED CHICKEN DRUMMETTES",
+					"desc": "GRILLED DRUMMETTES, MARINATED IN A SUMPTUOUS SWEET & SPICY SAUCE THAT STAYS TO THE LAST BITE.",
+					"price": "$10.90"
+				}, {
+					"title": "SWEET CHILI CAULIFLOWER",
+					"desc": "LIGHTLY DUSTED WITH OUR SPECIAL SEASONING & FRIED GOLDEN,THEN GLAZED WITH A SWEET & SPICY CHILI SAUCE.",
+					"price": "$9.90"
+				}
+			]
+		},
+		{
+			"name": "FISH",
+			"items": [{
+					"title": "MOROCCAN TILAPIA",
+					"desc": "MADE FRESH DAILY, OUR TILAPIA IS MARINATED IN A MOROCCAN SAUCE, THEN GRILLED TO SERVE.A FLAVOR TO SAVOR",
+					"price": "$22.90"
+				},
+				{
+					"title": "SALMON PROVENCAL",
+					"desc": "BAKED SALMON, COOKED WITH TOMATOES, GARLIC,WHITE WINE, & A BLACK OLIVE SAUCE.",
+					"price": "$26.90"
+				},
+				{
+					"title": "CRUSTED SALMON",
+					"desc": "FRESH SALMON COATED IN GARLIC, MACADAMIA NUTS & OTHER MOUTH FILLING TASTE SEASONINGS. BAKED & SERVED W/ MANGO SALSA.",
+					"price": "$27.90"
+				}
+			]
+		},
+		{
+			"name": "KIDS MENU",
+			"extra": "ALL KIDS MENU ITEMS ARE SERVED WITH FRENCH FRIES",
+			"items": [{
+					"title": "HAMBURGER",
+					"desc": "BEEF MEDALLION GRILLED TO PERFECTION, SERVED WITH LETTUCE, TOMATOES, AND CARAMELIZED ONIONS.",
+					"price": "$10.90"
+				},
+
+				{
+					"title": "GRILLED HOT DOG",
+					"desc": "PLUMP JUICY GRILLED HOT DOG",
+					"price": "$8.90"
+				},
+				{
+					"title": "CHICKEN FINGERS",
+					"desc": "TENDER FILLET LIGHTLY BREADED THAN FRIED TO PERFECTION.",
+					"price": "$10.90"
+				}
+			]
+		},
+		{
+			"name": "GRILL ROOM",
+			"extra": "*ALL ENTREES SERVED WITH CHOICE OF TWO SIDE DISHES.STEAMED VEGETABLES, HOME STYLE MASHED POTATOES,MAJADRA JASMIN RICE, AND FRENCH FRIES.",
+			"items": [{
+					"title": "SMOKY BBQ CHICKEN",
+					"desc": "CHICKEN BREAST SKEWERS MARINATED WITH OLIVE OIL, MIX OF MEDITERRANEAN INDIAN SPICES AND SMOKE LIQUID.",
+					"price": "$23.90"
+				},
+				{
+					"title": "CAJUN CHICKEN",
+					"desc": "DARK MEAT CHICKEN MARINATED WITH OLIVE OIL, LEMON JUICE, FRESH OREGANO, FRESH PARSLEY AND CAJUN SPICES MIX.",
+					"price": "$21.90"
+				}, {
+
+					"title": "BABY CHICKEN SKEWERS",
+					"desc": "DARK MEAT, TENDER CHICKEN GRILLED TO PERFECTION.",
+					"price": "$21.90"
+				},
+				{
+					"title": "CHICKEN MARSALA",
+					"desc": "LIGHTLY DUSTED CHICKEN CUTLET SAUTEED TO PERFECTION IN RED MARSALA WINE REDUCTION AND MUSHROOMS.",
+					"price": "$24.90"
+				},
+				{
+					"title": "MARINATED GRILLED CHICKEN BREAST",
+					"desc": "MARINATED CHICKEN BREAST, GRILLED TO SPECIFICATION.",
+					"price": "$22.90"
+				}, {
+					"title": "TORY YAKI CHICKEN (Spicy Optional)",
+					"desc": "SAUTEED VEGETABLES, SLOWLY CARAMELIZED, IN A SWEET CLASSIC JAPANESE SAUCE.",
+					"price": "$24.90"
+				}, {
+					"title": "SWEET & SPICY CHILI CHICKEN",
+					"desc": "GRILLED CHICKEN SLOWLY CARMELIZED IN CLASSIC JAPANESE SWEET CHILI SAUCE.",
+					"price": "$22.90"
+				}, {
+					"title": "SCHNITZEL",
+					"desc": "LIGHTLY PANKO, COATING CHICKEN CUTLETS, THEN FRIED TO GOLDEN BROWN.",
+					"price": "$21.90"
+				}, {
+					"title": "CHIPOTLE GLAZED RIB EYE",
+					"desc": "MARINATED IN A LIGHT CHIPOTLE LIME SAUCE AND GRILLED TO PERFECTION.",
+					"price": "$39.90"
+				}, {
+					"title": "KOREAN STEAK",
+					"desc": "SERVED IN SOY ONION AND ROASTED GARLIC SAUCE,THIS SUCCULENT STEAK BRINGS A TASTE OF ASIA TO MIAMI.",
+					"price": "$39.90"
+				}, {
+
+					"title": "GAZA STRIP STEAK",
+					"desc": "A DELICATELY PREPARED MASTERPIECE, MARINATED IN RICH JUICES,AND SIZZLED TO A THICK TENDERNESS. OUR STRIP STEAK PERSONIFIES THE WORDS `GREAT STEAK`, IT IS SERVED WITH A SIDE OF CHIMICHURRY.",
+					"price": "$41.90"
+				}, {
+					"title": "KALBI PEPPER STEAK",
+					"desc": "MADE FROM THE MOST TENDER RIB MEAT, THE KALBI STEAK ENTAILS A TASTE THAT EXCEEDS WORDS. IT IS SLOWLY GRILLED, SLICED, AND GLAZED IN RED WINE REDUCTION TOPPED WITH PEPPERCORN SAUCE, AND SERVED WITH OUR BEER BATTERED ONION BREAD.",
+					"price": "$40.90"
+				}, {
+					"title": " RIB EYE STEAK ",
+					"desc": "AGED TO PERFECTION, AND GRILLED TO YOUR TASTE.ABSOLUTELY SUBLIME",
+					"price": "$38.90"
+				},
+				{
+					"title": "BEEF FILLET SKEWERS",
+					"desc": "MADE FROM THE MOST LEAN AND TENDER BEEF CUT.",
+					"price": "$31.90"
+				}, {
+					"title": "GROUND BEEF KABAB",
+					"desc": "GROUND BEEF, ONION, PARSLEY, AND A BIT OF MEDITERANEAN SPICES SPICES MAKE THIS DISH SIMPLY DELICIOUS.",
+					"price": "$23.90"
+				}
+			]
+		},
+		{
+			"name": "DESSERTS",
+			"items": [{
+					"title": "BANANA BREAD PUDDING",
+					"desc": "A SIMPLE DELICIOUS BAKED DESSERT MADE WITH CUBES OF BREAD SATURATED WITH A MIXTURE OF NON DAIRY CREAM, EGGS, SUGAR, VANILLA, BANANA AND SPICES SERVED WITH ROASTED WALNUTS, HOT CHOCOLATE GANACHE AND SABAYON CREAM.",
+					"price": "$13.90"
+				}, {
+					"title": "CHOCOLATE SOUFFLE/VOLCANO (FOR 4)",
+					"desc": "SOFT WARM CAKE, SURROUNDING SINFULLY RICH CHOCOLATE FILLING, ADORNED BY POWDERY SUGAR, AND SWEET WHIPPED CREAM, THIS DELIGHT IS SURELY WORTH INDULGING IN.`DEATH BY CHOCOLATE`",
+					"price": "$11.90/$18.90"
+				},
+				{
+					"title": "APPLE TART",
+					"desc": "A SLICED APPLE, COOKED WITH CINNAMON AND BROWN SUGAR, THEN BAKED IN A PASTRY CRUST, SERVED WARM WITH WHIPPED CREAM.",
+					"price": "$11.90"
+				}
+			]
+		},
+		{
+			"name": "SMOOTHIES",
+			"items": [{
+					"title": "LEMONANA",
+					"price": "5.90$"
+				},
+				{
+					"title": "STRAWBERRY DAQUIRI",
+					"price": "5.90$"
+				},
+				{
+					"title": "PEACH MANGO",
+					"price": "5.90$"
+				},
+				{
+					"title": "BANANA COLADA",
+					"price": "5.90$"
+				},
+				{
+					"title": "CRAZY FRUIT MIX",
+					"price": "5.90$"
+				},
+				{
+					"title": "COCO COLADA",
+					"price": "5.90$"
+				}
+			]
+		},
+		{
+			"name": "BEVERAGES & SODAS",
+			"items": [{
+					"title": "COKE / DIET COKE / SPRITE / DIET SPRITE / FANTA / WATER / ICE TEA",
+					"price": "$2.00"
+				},
+				{
+					"title": "PERRIER / BLACK BEER ",
+					"price": "$2.75"
+				}, {
+					"title": "ASSORTED BEERS ",
+					"price": "$6.50"
+				}, {
+					"title": "LARGE SPRING WATER / SPARKLING",
+					"price": "$5.90"
+				}, {
+					"title": "ESPRESSO ",
+					"price": "$2.90 "
+				}, {
+					"title": "HOT TEA WITH MINT",
+					"price": "$2.75"
+				}
+			]
+		},
+		{
+			"name": "LUNCH SPECIALS",
+			"exta": "Monday thru Friday . From Noon till 4:30 PM",
+			"items": [{
+				"title": "SALADS & APPETIZER",
+				"desc": "SELECTION OF 5 FRESHLY PREPARED ETHNIC SALADS SERVED W/ PITA BREAD.CHOICE OF APPETIZER:GLAZED CHICKEN DRUMMETTES, SWEET CHILI CAULIFLOWER, CIGARS, FALAFEL OR HUMMUS MUSHROOMS.",
+				"price": "$11.90"
+			}, {
+				"title": "SOUP & ENTRÉE SIZE SALAD",
+				"desc": "CHOICE OF SOUP.CHOICE OF MAIN COURSE SALAD: GRILLED CHICKEN SALAD, THAI BEEF SALAD, ROASTED VEGETABLE SALAD.",
+				"price": "$15.90"
+			}, {
+				"title": "FISH & SALAD",
+				"desc": "SELECTION OF 5 FRESHLY PREPARED ETHNIC SALADS SERVED W/ PITA BREAD.CHOICE OF LUNCH PORTION FISH:MOROCCAN STYLE TILAPIA OR LEMON GARLIC & HERBS TILAPIA.CHOICE OF ISRAELI OR HOUSE SALAD.",
+				"price": "$15.90"
+			}, {
+				"title": "STEAK & SALAD",
+				"desc": "SELECTION OF 5 FRESHLY PREPARED ETHNIC SALADS SERVED W/ PITA BREAD.CHOICE OF STEAK: RIB EYE OR GAZA STRIP.CHOICE OF ISRAELI OR HOUSE SALAD.",
+				"price": "$20.90"
+			}, {
+
+				"title": "SALADS SOUP AND ENTREE ",
+				"desc": "SELECTION OF 5 FRESHLY PREPARED ETHNIC SALADS SERVED W/ PITA BREAD.CHOICE OF SOUP. CHOICE OF ENTRÉE:BABY CHICKEN SKEWERS, TORY YAKI, CHICKEN MARSALA, SMOKEY CHICKEN, CHIPOTLE GLAZED ROASTED LEG QUARTER, GROUND BEEF KABAB OR SCHNITZEL. SERVED WITH ONE CHOICE OF SIDE ORDER.",
+				"price": "$15.90"
+			}]
+		}
+	]
+}

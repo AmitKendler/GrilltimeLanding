@@ -1,0 +1,27 @@
+{
+  "name": "grilltime",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "landricks-components": "^0.8.0",
+    "material-ui": "^0.18.3",
+    "material-ui-scrollable-tabs": "^1.0.0",
+    "nuka-carousel": "^2.0.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-google-maps": "^6.3.0",
+    "react-image-gallery": "^0.8.2",
+    "react-responsive-carousel": "^3.1.19",
+    "react-slick": "^0.14.11",
+    "react-tap-event-plugin": "^2.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

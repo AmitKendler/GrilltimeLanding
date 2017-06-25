@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 55px;
+  margin-top: 5px;
+}
+
+.App-header {
+  border-bottom: 2px solid #dc3522;
+  background: rgba(0, 0, 0, 0.9) !important;
+  position: fixed !important;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.Menu-area h2 {
+  font-size: 36px;
+  text-transform: uppercase;
+  font-weight: bold;
+  position: relative;
+  margin-bottom: 70px;
+  text-align: center;
+}
+
+.Menu-area h2:after {
+  background: rgba(0, 0, 0, 0)
+    url(http://digitalcenturysf.com/themes/chili/wordpress/wp-content/themes/chili/img/line.png)
+    no-repeat
+    scroll
+    0
+    0;
+  bottom: -40px;
+  content: "";
+  height: 30px;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  width: 265px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+section div  {
+    padding:1px;
+}
