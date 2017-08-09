@@ -7,17 +7,39 @@
   margin-top: 5px;
 }
 
+.App-container {
+}
+
 .App-header {
   border-bottom: 2px solid #dc3522;
   background: rgba(0, 0, 0, 0.9) !important;
   position: fixed !important;
+  top: 0px;
 }
 
 .App-intro {
   font-size: large;
 }
 
-.Menu-area h2 {
+.App-about
+{
+}
+
+.App-content {
+    position: relative;
+    text-align: center;
+    top: 76px;
+    width: 80%;
+    margin: auto;
+    background: rgba(212, 212, 212, 0.7);
+    padding: 30px;
+}
+
+.App-section {
+  flex: 1;
+  font-size: 36px;
+}
+.App-section h2 {
   font-size: 36px;
   text-transform: uppercase;
   font-weight: bold;
@@ -26,13 +48,8 @@
   text-align: center;
 }
 
-.Menu-area h2:after {
-  background: rgba(0, 0, 0, 0)
-    url(http://digitalcenturysf.com/themes/chili/wordpress/wp-content/themes/chili/img/line.png)
-    no-repeat
-    scroll
-    0
-    0;
+.App-menu h2:after {
+  background: rgba(0, 0, 0, 0) url(./menu-line.png) no-repeat scroll 0 0;
   bottom: -40px;
   content: "";
   height: 30px;
@@ -43,6 +60,67 @@
   width: 265px;
 }
 
+
+.App-hours h2:after {
+  background: rgba(0, 0, 0, 0) url(./hours-line.png) no-repeat scroll 0 0;
+  bottom: -40px;
+  content: "";
+  height: 30px;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  width: 265px;
+}
+
+.App-about h2:after {
+  background: rgba(0, 0, 0, 0) url(./about-line.png) no-repeat scroll 0 0;
+  bottom: -40px;
+  content: "";
+  height: 30px;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  width: 265px;
+}
+
+.App-contactus h2:after {
+  background: rgba(0, 0, 0, 0) url(./phone-line.png) no-repeat scroll 0 0;
+  bottom: -40px;
+  content: "";
+  height: 30px;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  width: 265px;
+}
+
+a[href^="tel:"] {
+  color: black;
+  text-decoration: none;
+}
+
+a[href^="tel:"]:before {
+  content: "\260e";
+  margin-right: 0.5em;
+}
+
+
+.App-location h2:after {
+  background: rgba(0, 0, 0, 0) url(./location-line.png) no-repeat scroll 0 0;
+  bottom: -40px;
+  content: "";
+  height: 30px;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  width: 265px;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -52,6 +130,43 @@
   }
 }
 
-section div  {
-    padding:1px;
+h1 {
+  font-family: "Open Sans";
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+}
+h3 {
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 15.4px;
+}
+p {
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+blockquote {
+  font-family: "Open Sans";
+  font-size: 21px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+pre {
+  font-family: "Open Sans";
+  font-size: 13px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 18.5714px;
 }

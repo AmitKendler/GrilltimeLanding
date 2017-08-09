@@ -1,0 +1,42 @@
+
+.Hours-montothu
+{
+    flex: 2;
+    border: 1px solid #484444;
+    padding: 15px;
+}
+
+.Hours-fri
+{
+    flex: 2;
+    border: 1px solid #484444;
+    border-left: none;
+    padding: 15px;
+}
+
+.Hours-sat
+{
+    flex: 1;
+    border: 1px solid #484444;
+    border-left: none;
+    padding: 15px;
+}
+
+.Hours-content {
+	text-align: center;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Work Sans', sans-serif;
+    text-transform: uppercase;  
+}
+
+.Hours-disclaimer
+{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 25px;
+}
+
+.Hours-disclaimerstar
+{
+    color: red;
+}

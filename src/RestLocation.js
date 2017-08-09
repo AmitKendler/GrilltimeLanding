@@ -7,7 +7,7 @@ const SimpleMapExampleGoogleMap = withGoogleMap(props =>
             scrollwheel: false
         }}
         defaultZoom={11}
-        defaultCenter={{ lat:25.9241563, lng: -80.1537153 }}
+        defaultCenter={{ lat: 25.9241563, lng: -80.1537153 }}
     >
         {props.markers.map(marker =>
             <Marker
@@ -25,6 +25,11 @@ export default class RestLocation extends Component {
     render() {
         return (
             <div>
+                <p>
+                    16145 Biscayne Blvd
+                    (just south of 163rd Street)
+                    N. Miami Beach, FL 33160
+                </p>
                 <SimpleMapExampleGoogleMap
                     markers={[
                         {

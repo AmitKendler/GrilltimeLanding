@@ -1,0 +1,11 @@
+.AboutUs-text {
+	padding-left: 35px;
+	padding-right: 35px;
+}
+
+.AboutUs-since {
+	font-size: 34px;
+	color: #dc3522;
+	line-height: 0;
+	font-family: "Pacifico"
+}
